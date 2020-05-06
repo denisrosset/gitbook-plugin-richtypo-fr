@@ -1,0 +1,28 @@
+{
+    "name": "gitbook-plugin-richtypo-fr",
+    "description": "richtypo.js plugin for GitBook",
+    "main": "index.js",
+    "version": "0.0.1",
+    "engines": {
+        "gitbook": ">=3.2.0"
+    },
+    "homepage": "https://github.com/denisrosset/gitbook-plugin-richtypo-fr",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/denisrosset/gitbook-plugin-richtypo-fr"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/denisrosset/gitbook-plugin-richtypo-fr/issues"
+    },
+    "maintainers": [
+    {
+      "name": "denisrosset",
+      "email": "denis@denisrosset.com"
+    }
+  ],
+    "dependencies": {
+      "richtypo": "^4.0.7"
+      "richtypo-rules-fr": "^4.0.2"
+    }
+}
